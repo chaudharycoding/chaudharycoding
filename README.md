@@ -3,8 +3,8 @@
 <p><em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AR and VR Development Extern at <a href="https://snap.com/en-US">SnapInc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Zaeemchaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/zaeem-chaudhary/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ZaeemChaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/zaeem-chaudhary/)
+[![GitHub ZaeemChaudhary](https://img.shields.io/github/followers/ZaeemChaudhary?label=follow&style=social)](https://github.com/chaudharycoding)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
