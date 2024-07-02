@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ZaeemChaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/zaeem-chaudhary/)
-[![GitHub ZaeemChaudhary](label=ZaeemChaudhary&style=social)](https://github.com/chaudharycoding)
+[![GitHub chaudharycoding](https://img.shields.io/github/label=follow&style=social)](https://github.com/Thaiane)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
