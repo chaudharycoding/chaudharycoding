@@ -15,6 +15,7 @@ const Muhammad Zaeem Chaudhary = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Please feel free to connect on LinkedIn. </b><b></b></em>
