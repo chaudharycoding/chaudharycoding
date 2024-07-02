@@ -13,7 +13,7 @@
 ```javascript
 const Muhammad Zaeem Chaudhary = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
