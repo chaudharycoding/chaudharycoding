@@ -3,7 +3,7 @@
 <p><em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
 AR and VR Development Extern at <a href="https://snap.com/enUS">SnapInc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 Data Science and CR Intern at <a href="https://www.neftwerk.com/">Neftwerk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-Undergraduate Researcher on Transformer for Sign Language Recognition at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a></em></p>
+Undergraduate Researcher on Transformer for Sign Language Recognition at <a href="https://www.umass.edu/">UMass Amherst</a></em></p>
 
 
 
