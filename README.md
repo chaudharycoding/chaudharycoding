@@ -1,6 +1,6 @@
 <h2> Hi, I'm Muhammad Zaeem Chaudhary! </h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVncnVyNnY1NjlmNnFmc3ppYTF1cjhqc2k5MWlwa2JtYm4ycW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300">
-<p><em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>AR and VR Development Extern at <a href="https://snap.com/enUS">SnapInc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>Data Science and CR Intern at <a href="https://www.neftwerk.com/">Neftwerk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>AR and VR Development Extern at <a href="https://snap.com/enUS">SnapInc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>Data Science and CR Intern at <a href="https://www.neftwerk.com/">Neftwerk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>Data Science and CR Intern at <a href="https://www.neftwerk.com/">Neftwerk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
 
