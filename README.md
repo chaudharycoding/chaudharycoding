@@ -43,6 +43,8 @@ const Muhammad Zaeem Chaudhary = {
 
 --------------------------------------------
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Lens Studio](https://img.shields.io/badge/Lens_Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000&labelColor=000000)
+
 
 --------------------------------------------
 
