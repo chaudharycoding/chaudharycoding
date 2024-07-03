@@ -4,7 +4,6 @@
 Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
 Undergraduate Research Multimodal AI at <a href="https://www.umass.edu/">UMass Amherst</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="UMass Amherst"> </em></p>
 
-
                                                                                                                              
                                                                                                                              
 
