@@ -35,6 +35,8 @@ const Muhammad Zaeem Chaudhary = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3767AD?style=for-the-badge&logo=pygame&logoColor=white&labelColor=000000)
+
 
 --------------------------------------------
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
