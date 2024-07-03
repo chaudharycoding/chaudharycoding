@@ -40,11 +40,14 @@ const Muhammad Zaeem Chaudhary = {
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3767AD?style=for-the-badge&logo=pygame&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 --------------------------------------------
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lens Studio](https://img.shields.io/badge/Lens_Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000&labelColor=000000)
-
+![Agile](https://img.shields.io/badge/Agile-44C1C0?style=for-the-badge&logo=agile&logoColor=white&labelColor=000000)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white&labelColor=000000)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D7?style=for-the-badge&logo=devops&logoColor=white&labelColor=000000)
+![Microsoft](https://img.shields.io/badge/Microsoft_Suite-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=000000)
 
 --------------------------------------------
 
