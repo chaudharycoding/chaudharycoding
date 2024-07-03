@@ -3,10 +3,8 @@
   <em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="UMass Amherst"> <br>
   AR and VR Development Extern at <a href="https://snap.com/enUS">Snap Inc</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Snap Inc"> <br>
   Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
-  Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
-  Undergraduate Research on Multimodal AI at <a href="https://www.umass.edu/">UMass Amherst</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="UMass Amherst"></em>
-</p>
-
+  Undergraduate Research on Multimodal AI at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
+  
 
 
 
