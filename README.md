@@ -14,7 +14,7 @@
 const Muhammad Zaeem Chaudhary = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Git, Jupyter Notebooks, Attio, Agile, Scrum, CI/CD, Lens Studio, Microsoft Suite],
 }
 ```
 
