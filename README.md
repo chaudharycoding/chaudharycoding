@@ -4,6 +4,7 @@
 AR and VR Development Extern at <a href="https://snap.com/enUS">SnapInc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 Data Science and CR Intern at <a href="https://www.neftwerk.com/">Neftwerk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 Undergraduate Researcher at <a href="https://www.umass.edu/">UMass Amherst</a><img src="https://media.giphy.com/media/WUlplcMpOCEmT
+
                                                                                                                              
                                                                                                                              
 
