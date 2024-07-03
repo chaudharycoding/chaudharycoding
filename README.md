@@ -14,7 +14,7 @@
 const Muhammad Zaeem Chaudhary = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
-  frameworks: [Frameworks: Pandas, NumPy, Scikit-learn, PyGame]
+  frameworks: [Frameworks: Pandas, NumPy, Scikit-learn, PyGame],
   tools: [Git, Jupyter Notebooks, Attio, Agile, Scrum, CI/CD, Lens Studio, Microsoft Suite],
 }
 ```
