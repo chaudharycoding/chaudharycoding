@@ -22,18 +22,6 @@ Undergraduate Research on Sign-Language Recognition at <a href="https://www.umas
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Muhammad Zaeem Chaudhary = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C++],
-  frameworks: [Frameworks: Pandas, NumPy, Scikit-learn, PyGame],
-  tools: [Git, Jupyter Notebooks, Attio, Agile, Scrum, CI/CD, Lens Studio, Microsoft Suite],
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Please feel free to connect on LinkedIn. </b><b></b></em>
-
----
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
