@@ -14,8 +14,9 @@ Undergraduate Research on Sign-Language Recognition at <a href="https://www.umas
                                                                                                                              
 
 [![Linkedin: ZaeemChaudhary](https://img.shields.io/badge/-ZaeemChaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaeem-chaudhary/)](https://www.linkedin.com/in/zaeem-chaudhary/)
-[![GitHub: chaudharycoding](https://img.shields.io/badge/GitHub-chaudharycoding-blue?style=social)](https://github.com/chaudharycoding)
 [![Website: zaeemcodes.net](https://img.shields.io/badge/Website-zaeemcodes.net-red?style=flat-square&logo=redcar&logoColor=white)](https://zaeemcodes.net)
+[![GitHub: chaudharycoding](https://img.shields.io/badge/GitHub-chaudharycoding-blue?style=social)](https://github.com/chaudharycoding)
+
 
 
 
