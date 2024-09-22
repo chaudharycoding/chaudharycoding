@@ -4,7 +4,7 @@
   AR and VR Development Extern at <a href="https://snap.com/enUS">Snap Inc</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Snap Inc"> <br>
   Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
   Personalizing LLM Research Fellow at <a href="https://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="CIIR"> <br>
-  Undergraduate Research on Sign-Language Recognition at <a href="https://www.umass.edu/">UMass Amherst</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="UMass Amherst"> <br>
+Undergraduate Research on Sign-Language Recognition at <a href="https://www.umass.edu/">UMass Amherst</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="UMass Amherst"> <br>
   
 
 
