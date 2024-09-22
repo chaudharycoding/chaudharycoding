@@ -1,8 +1,8 @@
 <h2> Hi, I'm Muhammad Zaeem Chaudhary! </h2><img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVncnVyNnY1NjlmNnFmc3ppYTF1cjhqc2k5MWlwa2JtYm4ycW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300">
 <p style="line-height: 1.2;">
   <em>Rising Sophomore at <a href="https://www.umass.edu/">University of Massachusetts Amherst</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="UMass Amherst"> <br>
-  AR and VR Development Extern at <a href="https://snap.com/enUS">Snap Inc</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Snap Inc"> <br>
-  Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Neftwerk"> <br>
+  AR and VR Development Extern at <a href="https://snap.com/enUS">Snap Inc</a> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" alt="Snap Inc"> <br>
+  Data Science and CRM Intern at <a href="https://www.neftwerk.com/">Neftwerk</a> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" alt="Neftwerk"> <br>
   Personalizing LLM Research Fellow at <a href="https://ciir.cs.umass.edu/">CIIR</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="CIIR"> <br>
 Undergraduate Research on Sign-Language Recognition at <a href="https://www.umass.edu/">UMass Amherst</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="UMass Amherst"> <br>
   
