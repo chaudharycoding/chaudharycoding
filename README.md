@@ -17,7 +17,13 @@
 
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50"> A little more about me...  
+### <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="50"> A little more about me...
+
+Hey there! I’m Zaeem, a Computer Science and Math double major at UMass Amherst, diving deep into AI and math in Data Science and Statistics. I’m currently working under Professor Hamed Zamani at the Center for Intelligent Information Retrieval, making large language models more personalized.
+
+This summer, I optimized convolutional neural networks for ASL recognition and worked as a Data Science Intern at Neftwerk, getting hands-on with real-world data.
+
+When I’m not coding, I’m watching Formula 1, cricket, football or exploring my passions for watches and fragrances.
 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
