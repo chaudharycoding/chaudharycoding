@@ -1,8 +1,18 @@
-<h2> Hi, I'm Muhammad Zaeem Chaudhary! </h2><img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVncnVyNnY1NjlmNnFmc3ppYTF1cjhqc2k5MWlwa2JtYm4ycW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300">
-<p style="line-height: 1.2;">                                                                                                                          
-[![Linkedin: ZaeemChaudhary](https://img.shields.io/badge/-ZaeemChaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaeem-chaudhary/)](https://www.linkedin.com/in/zaeem-chaudhary/)
-[![Website: zaeemcodes.net](https://img.shields.io/badge/Website-zaeemcodes.net-red?style=flat-square&logo=redcar&logoColor=white)](https://zaeemcodes.net)
-[![GitHub: chaudharycoding](https://img.shields.io/badge/GitHub-chaudharycoding-blue?style=social)](https://github.com/chaudharycoding)
+<h2>Hi, I'm Muhammad Zaeem Chaudhary!</h2>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVncnVyNnY1NjlmNnFmc3ppYTF1cjhqc2k5MWlwa2JtYm4ycW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" alt="GIF">
+
+<p style="line-height: 1.5; margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/zaeem-chaudhary/" target="_blank">
+        <img src="https://img.shields.io/badge/-ZaeemChaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://zaeemcodes.net" target="_blank">
+        <img src="https://img.shields.io/badge/Website-zaeemcodes.net-red?style=flat-square&logo=redcar&logoColor=white" alt="Website">
+    </a>
+    <a href="https://github.com/chaudharycoding" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-chaudharycoding-blue?style=social" alt="GitHub">
+    </a>
+</p>
+
 
 
 
